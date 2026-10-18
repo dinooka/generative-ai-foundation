@@ -1,0 +1,61 @@
+# Chapter 4: Vocabulary
+
+> Study notes summarized in our own words. Not verbatim course text.
+> The in-course item is an interactive H5P flashcard deck whose card text is not exposed; the terms below are the chapter's official Key Terms, defined in our own words.
+
+- **Content Refinement** — improving AI-generated content through iterative edits.
+- **Specificity** — the level of detail and precision in a prompt.
+- **Prompt Balancing** — tuning a prompt to be neither too broad nor too narrow.
+- **Context Clues** — background hints that guide the model's interpretation.
+- **AI Conversation Flow** — the natural progression of a multi-turn chat with the model.
+- **Ethical Prompting** — crafting prompts that respect fairness and avoid harm.
+- **Unambiguous Prompts** — instructions written so only one interpretation is likely.
+- **Prompt Improvement** — revising prompts to get better results.
+- **Task Clarification** — spelling out exactly what the model must deliver.
+- **Assumption Avoidance** — not presuming the model knows unstated references.
+- **Style Refinement** — tuning the tone and format of outputs.
+- **Persona Refinement** — tuning the role/voice the AI adopts.
+- **Role-Based Prompting** — assigning the AI a persona to shape answers.
+- **Context Refinement** — sharpening the background information supplied to the model.
+- **Few-Shot Prompting** — giving a few examples so the model learns the pattern.
+- **Pattern Recognition** — the model detecting structure/style from examples.
+- **Intellectual Property Rights** — legal protections for creators of original works.
+- **Copyright** — the exclusive legal right to reproduce and distribute a creative work.
+- **AI Training Data** — the material used to teach a model.
+- **Permissions and Licenses** — formal grants allowing use of protected work.
+- **Copyright Infringement** — using copyrighted work without authorization.
+- **Data Rights** — legal entitlements over how one's data is used.
+- **Content Ownership** — who holds the rights to a piece of content.
+- **Fair Use** — limited legal allowance to use copyrighted material without permission.
+- **Public Domain Content** — works free of copyright restrictions.
+- **Creative Commons Licenses** — standardized licenses letting creators permit reuse under conditions.
+- **Attribution** — crediting the original creator of a work.
+- **Plagiarism** — presenting someone else's work as your own.
+- **Privacy Protection** — safeguards for personal information.
+- **Informed Consent** — agreement given with full understanding of how data will be used.
+- **Trademark Infringement** — unauthorized use of a protected brand mark.
+- **Personal Data** — information relating to an identifiable individual.
+- **Data Privacy** — the right to control how personal data is collected and used.
+- **Data Collection** — gathering information, often from users or the web.
+- **Data Breach** — unauthorized exposure of protected data.
+- **Unauthorized Access** — reaching data or systems without permission.
+- **Data Misuse** — using data in ways beyond its intended or permitted purpose.
+- **Privacy Policy** — a statement of how an organization handles personal data.
+- **Data Anonymization** — stripping identifiers so data cannot be traced to individuals.
+- **Identity Theft** — using someone else's personal information fraudulently.
+- **Phishing** — deceptive messages designed to steal credentials or data.
+- **Deepfakes** — realistic AI-generated fake images, audio, or video of real people.
+- **PII (Personally Identifiable Information)** — data that can identify a specific person.
+- **Fraud** — deception for unlawful gain.
+- **Identity Protection** — measures defending against identity theft.
+- **Human Oversight** — people reviewing and controlling AI-driven processes.
+- **Misinformation** — false or misleading information spread regardless of intent.
+- **Bias** — skewed outputs reflecting imbalances in training data or design.
+- **Content Manipulation** — altering media to mislead viewers.
+- **Auditing** — systematic review of AI systems for safety and fairness.
+- **Ethics** — principles governing right and responsible AI use.
+- **Algorithms** — the step-by-step procedures driving AI behavior.
+- **Echo Chambers** — environments where existing views are reinforced and alternatives excluded.
+- **Recommendations** — AI-suggested content based on user data and patterns.
+- **Overreliance** — depending on AI more than is safe or appropriate.
+- **Automation** — using AI to perform tasks with minimal human involvement.
